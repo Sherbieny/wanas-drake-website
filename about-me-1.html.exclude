@@ -1,0 +1,255 @@
+﻿<!doctype html>
+
+
+<html lang="en" class="no-js">
+<head>
+	<title>WDI | Personnel</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen">	
+	<link rel="stylesheet" type="text/css" href="css/magnific-popup.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/flexslider.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
+	
+</head>
+<body>
+
+	<!-- Container -->
+	<div id="container">
+		<!-- Header
+		    ================================================== -->
+        <header class="fixit">
+
+           
+            <div style="color: #606060; text-transform: uppercase;" class="panel-heading">
+                <h4>Wanas Drake International</h4>
+                <h5>Architects</h5>
+            </div>
+
+            <div class="logo-box">
+                <a class="logo" href="Home.aspx"><img alt="" src="images/logo.jpg"></a>
+            </div>
+
+            <a class="elemadded responsive-link" href="#">Menu</a>
+
+            <div class="menu-box">
+                <ul class="menu">
+                    <li>
+                        <a href="Home.aspx"><span>Home</span></a>
+                        <!--<ul class="dropdown">
+                        <li><a href="index.html">Home 1</a></li>
+                        <li><a href="home2.html">Home 2</a></li>
+                        <li><a href="home3.html">Home 3</a></li>
+                        <li><a href="home4.html">Home 4</a></li>
+                        <li><a href="home5.html">Home 5</a></li>
+                        <li><a href="Home.aspx">Home 6</a></li>
+                    </ul>-->
+                    </li>
+                    <li class="drop">
+                        <a class="active" href="history.html"><span>About us</span></a>
+                        <ul class="dropdown">
+                            <li><a href="history.html">History</a></li>
+                                <li><a href="mission.html">Mission</a></li>
+                                <li><a href="Personnel.aspx">Personnel</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="services.html"><span>Services</span></a>
+                        <!--<ul class="dropdown">
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="error-404.html">Error 404</a></li>
+                    </ul>-->
+                    </li>
+                    <li class="drop">
+                        <a href="Categories.aspx"><span>Projects</span></a>
+                        <ul class="dropdown categories-font-menu">
+                            <li><a href="proj_1.html">Private Housing and Residential</a></li>
+                            <li><a href="proj_2.html">Tourism</a></li>
+                            <li><a href="proj_3.html">Office Buildings and Corporates</a></li>
+                            <li><a href="proj_4.html">Commercial</a></li>
+                            <li><a href="proj_5.html">Landscape and Outdoor Area</a></li>
+                            <li><a href="proj_6.html">Sport Facilities</a></li>
+                            <li><a href="proj_7.html">Industrial</a></li>
+                            <li><a href="proj_8.html">Interior Design and Furniture Design</a></li>
+                            <li><a href="proj_9.html">Religious Buildings</a></li>
+                            <li><a href="proj_10.html">Urban Conservation</a></li>
+                            <li><a href="proj_11.html">Urban Planning</a></li>
+                            <li><a href="proj_12.html">Entertainment and Culture</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="Contact.aspx"><span>Contact</span></a></li>
+                </ul>
+            </div>
+            <div class="header-foot">
+                <div class="social-box">
+                    <ul class="social-icons">
+                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+                        
+                        <li><a href="#" class="flickr"><i class="fa fa-flickr"></i></a></li>
+                        <li><a href="#" class="vimeo"><i class="fa fa-vimeo-square"></i></a></li>
+                    </ul>
+                </div>
+
+                <div class="copyright-box">
+                    <p>WDI 2015. All rights reserved</p>
+                    <p>Powered by <a href="http://www.csharkstudio.com" target="_blank">CSHARK</a></p>
+                </div>
+            </div>
+
+        </header>
+		<!-- End Header -->
+
+		<!-- content 
+			================================================== -->
+		<div id="content">
+			<div class="inner-content">
+				<div class="about-page">
+					<div class="about-page-content">
+						<div class="container">
+							<div class="about-box about-me">
+								<h1>Qualifications of Personnel <span>&lt; back to home <a href="Home.aspx"><i class="fa fa-times"></i></a></span></h1>
+								<div class="row">
+									<div class="col-md-5">
+										<img src="images/profile_pic_1_edited2.jpg" alt="">
+									</div>
+									<div class="col-md-7">
+										<h2>Dr. Ayman Wanas</h2>
+										<h3>Principal Director</h3>
+										<p>Dr Wanas has 24 years of professional experience in architecture. <br /> Since his first appointment as a teaching assistant in Helwan University in 1985, he has been steadily promoted and is now working as an Associate Professor in the Arab Academy of Science and Technology.<br />
+                                            During his research on “The Influence of Indigenous Arts on Architecture,” he was a visiting scholar at Oklahoma State University for the 2005/6 academic year.<br />
+                                        </p>
+										<p>He has been invited as a keynote speaker to various conferences throughout the world, including the University of Newcastle, Australia in 2003.<br />
+                                        Dr Wanas has published articles on the subject of Urban Design and Architecture and has supervised and assessed many university theses.
+                                        </p>
+										<div class="my-info">
+											<div class="row">
+												<div class="col-md-7">
+													<p>e-mail: <span>hansom.rob@cobalttheme.com</span></p>
+													<p>phone: <span>0 800 55 55 123 45</span></p>
+													<ul class="share-list">
+														<li><span>Socialize: </span></li>
+														<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+														<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+														<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+														<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+													</ul>
+												</div>
+												<div class="col-md-5">
+													<div class="my-signature">
+														<img src="images/signature.png" alt="">
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<!--<div class="skill-testim-box">
+								<div class="row">
+									<div class="col-md-6">
+										<h1>SOFTWARE KNOWLEDGE &amp; SKILLS </h1>
+										<div class="circle-box-skills">
+											<div class="circle-box">
+												<div id="circle" class="circle" data-percent="85" data-background="#343434" data-forground="#a5a5a5" data-fontcolor="#343434"></div>
+												<p>Web Design</p>
+											</div>
+											<div class="circle-box">
+												<div id="circle2" class="circle" data-percent="98" data-background="#343434" data-forground="#a5a5a5" data-fontcolor="#343434"></div>
+												<p>Photoshop</p>
+											</div>
+											<div class="circle-box">
+												<div id="circle3" class="circle" data-percent="65" data-background="#343434" data-forground="#a5a5a5" data-fontcolor="#343434"></div>
+												<p>HTML &amp; CSS</p>
+											</div>
+											<div class="circle-box">
+												<div id="circle4" class="circle" data-percent="90" data-background="#343434" data-forground="#a5a5a5" data-fontcolor="#343434"></div>
+												<p>Illustrator</p>
+											</div>											
+										</div>
+									</div>
+									<div class="col-md-6">
+										<h1>HAPPy clients &amp; TEstimonials</h1>
+										<div class="testimonial services-testimonial">
+											<ul>
+												<li>
+													<div class="client-test">
+														<img alt="" src="http://placehold.it/166x163">
+														<h2>Mr. Blue Eyes Hansom</h2>
+														<h3>CEO at Tiny Cookies <span> | <a href="#">www.tinycookies-site.com</a></span></h3>
+
+														<p class="testimonial-text">”Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu smod tempor incididunt ut labore et dolore agna aliqua.”</p>
+
+														<ul class="star-rate">
+															<li><span>Client Rating:</span></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+														</ul>
+													</div>
+												</li>
+												<li>
+													<div class="client-test">
+														<img alt="" src="http://placehold.it/166x163">
+														<h2>Mr. Afrim Radoniqi</h2>
+														<h3>CEO at Print Shop <span> | <a href="#">www.tinycookies-site.com</a></span></h3>
+
+														<p class="testimonial-text">”Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu smod tempor incididunt ut labore et dolore agna aliqua.”</p>
+
+														<ul class="star-rate">
+															<li><span>Client Rating:</span></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+														</ul>
+													</div>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>-->
+
+						</div>
+					</div>
+				</div>				
+			</div>
+		</div>
+		<!-- End content -->
+
+	</div>
+	<!-- End Container -->
+
+	<div class="preloader">
+		<img alt="" src="images/preloader.GIF">
+	</div>
+
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.migrate.js"></script>
+	<script type="text/javascript" src="js/jquery.appear.js"></script>
+	<script type="text/javascript" src="js/raphael-min.js"></script>
+	<script type="text/javascript" src="js/DevSolutionSkill.min.js"></script>
+	<script type="text/javascript" src="js/jquery.quovolver.js"></script>
+	<script type="text/javascript" src="js/plugins-scroll.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/jquery.imagesloaded.min.js"></script>
+	<script type="text/javascript" src="js/retina-1.1.0.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,103 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>WDI | Administration</title>
+
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700' rel='stylesheet' type='text/css'/>
+
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css" media="screen"/>	
+	<link rel="stylesheet" type="text/css" href="../css/magnific-popup.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="../css/font-awesome.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="../css/flexslider.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="../css/responsive.css" media="screen"/>
+  
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:#ffffff !important;">
+     <form id="form1" runat="server" method="post" role="form">  
+    <div id="container" style="background-color:#ffffff;">
+        	<!-- Header
+		    ================================================== -->
+		<header class="fixit" style="border-right-color: grey; border-right-width: 0.2vw; border-right-style: solid">
+
+			<div class="logo-box">
+				<a class="logo" href="../Home.aspx" target="_blank"><img alt="" src="../images/logo.jpg"/></a>
+			</div>
+			
+			<a class="elemadded responsive-link" href="#">Menu</a>
+
+            <div class="menu-box">
+                <ul class="menu">
+                    <li>
+                        <a href="Ad_home.aspx"><span>Home</span></a>                      
+                    </li>
+                    <li>
+                        <a href="Ad_projects.aspx"><span>Projects</span></a>                        
+                    </li>
+                    <li id="employeesItem3" runat="server">
+                        <a href="Ad_categories.aspx"><span>Categories</span></a>                        
+                    </li>                                        
+                    <li id="employeesItem2" runat="server">
+                        <a href="Ad_personnel.aspx"><span>Personnel</span></a>                        
+                    </li> 
+                    <li>
+                        <a href="Ad_pictures.aspx"><span>Pictures</span></a>                        
+                    </li> 
+                    <li id="employeesItem" runat="server">
+                        <a href="Ad_employees.aspx"><span>Employees</span></a>                        
+                    </li> 
+                    <li>                       
+                        <a><span>Log Out</span>
+                            <asp:Button runat="server" CssClass="btn btn-sm btn-warning" Text="&#9658;" OnClick="log_out_Click" />
+                        </a>                            
+                    </li>
+                </ul>
+            </div>
+			<div class="header-foot">				
+				<div class="copyright-box">
+					<p>WDI 2015. All rights reserved</p>
+					<p>Powered by <a href="http://www.csharkstudio.com" target="_blank">CSHARK</a></p>
+				</div>
+			</div>
+
+		</header>
+		<!-- End Header -->
+
+    
+       
+        <div>
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        </div>
+        </form>        
+    <div class="preloader">
+		<img alt="" src="../images/preloader.GIF"/>
+	</div>
+
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.migrate.js"></script>
+	<script type="text/javascript" src="../js/jquery.appear.js"></script>
+	<script type="text/javascript" src="../js/raphael-min.js"></script>
+	<script type="text/javascript" src="../js/DevSolutionSkill.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.quovolver.js"></script>
+	<script type="text/javascript" src="../js/plugins-scroll.js"></script>
+	<script type="text/javascript" src="../js/bootstrap.js"></script>
+	<script type="text/javascript" src="../js/jquery.imagesloaded.min.js"></script>
+	<script type="text/javascript" src="../js/retina-1.1.0.min.js"></script>
+	<script type="text/javascript" src="../js/script.js"></script>    
+    <script src="../js/bootstrap-filestyle.min.js"></script>
+
+
+</body>
+</html>

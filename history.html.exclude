@@ -1,0 +1,334 @@
+﻿<!doctype html>
+
+
+<html lang="en" class="no-js">
+<head>
+	<title>WDI</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen">	
+	<link rel="stylesheet" type="text/css" href="css/magnific-popup.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/flexslider.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
+	
+</head>
+<body>
+
+	<!-- Container -->
+	<div id="container">
+		<!-- Header
+		    ================================================== -->
+		<header class="fixit">
+
+			<div class="logo-box">
+				<a class="logo" href="Home.aspx"><img alt="" src="images/logo.jpg"></a>
+			</div>
+			
+			<a class="elemadded responsive-link" href="#">Menu</a>
+
+            <div class="menu-box">
+                <ul class="menu">
+                    <li>
+                        <a class="active" href="Home.aspx"><span>Home</span></a>
+                        <!--<ul class="dropdown">
+                    <li><a href="index.html">Home 1</a></li>
+                    <li><a href="home2.html">Home 2</a></li>
+                    <li><a href="home3.html">Home 3</a></li>
+                    <li><a href="home4.html">Home 4</a></li>
+                    <li><a href="home5.html">Home 5</a></li>
+                    <li><a href="Home.aspx">Home 6</a></li>
+                </ul>-->
+                    </li>
+                    <li>
+                        <a href="Personnel.aspx"><span>About us</span></a>
+                        <ul class="dropdown">
+                            <li><a href="Personnel.aspx">Personnel</a></li>
+                            <li><a href="history.html">History</a></li>
+                            <li><a href="mission.html">Mission</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="services.html"><span>Services</span></a>
+                        <!--<ul class="dropdown">
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="error-404.html">Error 404</a></li>
+                </ul>-->
+                    </li>
+                    <li class="drop">
+                        <a href="Categories.aspx"><span>Projects</span></a>
+                        <ul class="dropdown">
+                            <li><a href="blog.html">Blog 1</a></li>
+                            <li><a href="blog2.html">Blog 2</a></li>
+                            <li><a href="blog3.html">Blog 3</a></li>
+                            <li><a href="blog-masonry.html">Blog masonry</a></li>
+                            <li><a href="single-post.html">Single post 1</a></li>
+                            <li><a href="single-post-sidebar.html">Single post 2</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="Contact.aspx"><span>Contact</span></a></li>
+                </ul>
+            </div>
+			<div class="header-foot">
+				<div class="social-box">
+					<ul class="social-icons">
+						<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#" class="twitter" ><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+						<li><a href="#" class="youtube" ><i class="fa fa-youtube"></i></a></li>
+						<li><a href="#" class="flickr" ><i class="fa fa-flickr"></i></a></li>
+						<li><a href="#" class="vimeo" ><i class="fa fa-vimeo-square"></i></a></li>
+					</ul>
+				</div>
+
+				<div class="copyright-box">
+					<p>WDI 2015. All rights reserved</p>
+					<p>Powered by <a href="http://www.csharkstudio.com" target="_blank">CSHARK</a></p>
+				</div>
+			</div>
+
+		</header>
+		<!-- End Header -->
+
+		<!-- content 
+			================================================== -->
+		<div id="content">
+			<div class="inner-content">
+				<div class="about-page">
+					<div class="about-page-content">
+						<div class="container">
+
+							<div class="team-testimonial-box">
+								<div class="row">
+									<div class="col-md-7">
+										<h1>meet the creative minds of our company</h1>
+										<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+											<!-- Wrapper for slides -->
+											<div class="carousel-inner">
+
+												<div class="item active">
+													<div class="row">
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+
+												<div class="item">
+													<div class="row">
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+														<div class="col-md-4">
+															<div class="team-post">
+																<img src="http://placehold.it/248x366" alt="">
+																<div class="team-hover">
+																	<h2>Hansom Rob</h2>
+																	<span>CEO &amp; Cool guy</span>
+																	<ul class="team-social">
+																		<li><a href="#" class="facebook" ><i class="fa fa-facebook"></i></a></li>
+																		<li><a href="#" class="google" ><i class="fa fa-google-plus"></i></a></li>
+																		<li><a href="#" class="linkedin" ><i class="fa fa-linkedin"></i></a></li>
+																		<li><a href="#" class="pinterest" ><i class="fa fa-pinterest"></i></a></li>
+																	</ul>
+																</div>
+															</div>
+														</div>
+													</div>
+
+												</div>
+
+											</div>
+
+											<!-- Controls -->
+											<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"></a>
+											<a class="right carousel-control" href="#carousel-example-generic" data-slide="next"></a>
+										</div>
+									</div>
+									<div class="col-md-5">
+										<h1>HAPPy clients <span>&lt; back to home <a href="Home.aspx"><i class="fa fa-times"></i></a></span></h1>
+										<div class="testimonial">
+											<ul>
+												<li>
+													<div class="client-test">
+														<img alt="" src="http://placehold.it/166x163">
+														<h2>Mr. Blue Eyes Hansom</h2>
+														<h3>CEO at Tiny Cookies <span> | <a href="#">www.tinycookies-site.com</a></span></h3>
+
+														<p class="testimonial-text">”Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu smod tempor incididunt ut labore et dolore agna aliqua.”</p>
+
+														<ul class="star-rate">
+															<li><span>Client Rating:</span></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+														</ul>
+													</div>
+												</li>
+												<li>
+													<div class="client-test">
+														<img alt="" src="http://placehold.it/166x163">
+														<h2>Mr. Afrim Radoniqi</h2>
+														<h3>CEO at Print Shop <span> | <a href="#">www.tinycookies-site.com</a></span></h3>
+
+														<p class="testimonial-text">”Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu smod tempor incididunt ut labore et dolore agna aliqua.”</p>
+
+														<ul class="star-rate">
+															<li><span>Client Rating:</span></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a href="#"><i class="fa fa-star"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+															<li><a class="unchecked" href="#"><i class="fa fa-star-o"></i></a></li>
+														</ul>
+													</div>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="about-box">
+								<h1>ABOUT OUR COMPANY</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco oris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate elit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint ecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste atus error sit voluptatem accusantium doloremque laudantium, totam rem am, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
+							</div>
+
+							<div class="work-course">
+								<h1>Course of work</h1>
+								<div class="row">
+									<div class="col-md-3">
+										<div class="work-course-post">
+											<h2>Stage 1 / Planing</h2>
+											<p>Lorem ipsum dolor sit amet, consectetur icing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Ut enim ad minim am, quis nostrud.</p>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="work-course-post">
+											<h2>Stage 2 / Design Process</h2>
+											<p>Lorem ipsum dolor sit amet, consectetur icing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Ut enim ad minim am, quis nostrud.</p>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="work-course-post">
+											<h2>Stage 3 / Develop</h2>
+											<p>Lorem ipsum dolor sit amet, consectetur icing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Ut enim ad minim am, quis nostrud.</p>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="work-course-post">
+											<h2>Stage 4 / Final Testing</h2>
+											<p>Lorem ipsum dolor sit amet, consectetur icing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Ut enim ad minim am, quis nostrud.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>				
+			</div>
+		</div>
+		<!-- End content -->
+
+	</div>
+	<!-- End Container -->
+
+	<div class="preloader">
+		<img alt="" src="images/preloader.GIF">
+	</div>
+
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.migrate.js"></script>
+	<script type="text/javascript" src="js/jquery.appear.js"></script>
+	<script type="text/javascript" src="js/raphael-min.js"></script>
+	<script type="text/javascript" src="js/DevSolutionSkill.min.js"></script>
+	<script type="text/javascript" src="js/jquery.quovolver.js"></script>
+	<script type="text/javascript" src="js/plugins-scroll.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/jquery.imagesloaded.min.js"></script>
+	<script type="text/javascript" src="js/retina-1.1.0.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+
+
+</body>
+</html>
